@@ -12,7 +12,7 @@
 li {
   list-style-type: none;
 }
-div#fruits-name {
+ul#fruits-name {
   background-color: rgb(0, 0, 0, 0.5);
   padding: 20px;
   border-radius: 15%;
