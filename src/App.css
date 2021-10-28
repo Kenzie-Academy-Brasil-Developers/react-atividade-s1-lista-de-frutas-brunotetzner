@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+li {
+  list-style-type: none;
+}
+div#fruits-name {
+  background-color: rgb(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 15%;
+}
+button {
+  margin-top: 20px;
+  width: 100px;
+  height: 70px;
+  background-image: linear-gradient(rgb(243, 53, 53), rgb(202, 106, 16));
+  border: 2px solid white;
+  border-radius: 15%;
+  color: white;
+  font-size: 15px;
+}
